@@ -1,0 +1,673 @@
+{
+  "kolory": [
+    {
+      "nazwa_dekoru": "Akacja księżycowa",
+      "numer_dekoru": "D1861"
+    },
+    {
+      "nazwa_dekoru": "Aloesowy",
+      "numer_dekoru": "U10030"
+    },
+    {
+      "nazwa_dekoru": "Antracyt",
+      "numer_dekoru": "U164"
+    },
+    {
+      "nazwa_dekoru": "Atramentowy",
+      "numer_dekoru": "U10040"
+    },
+    {
+      "nazwa_dekoru": "Beton",
+      "numer_dekoru": "D3274"
+    },
+    {
+      "nazwa_dekoru": "Beton Ciemny",
+      "numer_dekoru": "D3265"
+    },
+    {
+      "nazwa_dekoru": "Beton Milenium",
+      "numer_dekoru": "D1038"
+    },
+    {
+      "nazwa_dekoru": "Beton Szary",
+      "numer_dekoru": "D30090"
+    },
+    {
+      "nazwa_dekoru": "Beż Jasny",
+      "numer_dekoru": "U119"
+    },
+    {
+      "nazwa_dekoru": "Biała Porcelana",
+      "numer_dekoru": "U570"
+    },
+    {
+      "nazwa_dekoru": "Biały",
+      "numer_dekoru": "K101"
+    },
+    {
+      "nazwa_dekoru": "Biały",
+      "numer_dekoru": "U511"
+    },
+    {
+      "nazwa_dekoru": "Biały Alaska",
+      "numer_dekoru": "U8681"
+    },
+    {
+      "nazwa_dekoru": "Biały Kremowy",
+      "numer_dekoru": "K300"
+    },
+    {
+      "nazwa_dekoru": "Biały Polarny",
+      "numer_dekoru": "U3293"
+    },
+    {
+      "nazwa_dekoru": "Biel Alpejska",
+      "numer_dekoru": "U8685"
+    },
+    {
+      "nazwa_dekoru": "Buk Bordeaux",
+      "numer_dekoru": "D3806"
+    },
+    {
+      "nazwa_dekoru": "Buk Jasny",
+      "numer_dekoru": "D381"
+    },
+    {
+      "nazwa_dekoru": "Buk Zurych",
+      "numer_dekoru": "D3807"
+    },
+    {
+      "nazwa_dekoru": "Błękit Gołębi",
+      "numer_dekoru": "U120"
+    },
+    {
+      "nazwa_dekoru": "Błękit Lodowy",
+      "numer_dekoru": "U3271"
+    },
+    {
+      "nazwa_dekoru": "Błękit Morski",
+      "numer_dekoru": "U3824"
+    },
+    {
+      "nazwa_dekoru": "Cappuccino",
+      "numer_dekoru": "U3053"
+    },
+    {
+      "nazwa_dekoru": "Ceglana Czerwień",
+      "numer_dekoru": "U10020"
+    },
+    {
+      "nazwa_dekoru": "Ceglany",
+      "numer_dekoru": "U4436"
+    },
+    {
+      "nazwa_dekoru": "Czarny",
+      "numer_dekoru": "U190"
+    },
+    {
+      "nazwa_dekoru": "Czerwone Wino",
+      "numer_dekoru": "U4437"
+    },
+    {
+      "nazwa_dekoru": "Drewno Lipowe Kremowe",
+      "numer_dekoru": "D4412"
+    },
+    {
+      "nazwa_dekoru": "Drewno Retro",
+      "numer_dekoru": "D4040"
+    },
+    {
+      "nazwa_dekoru": "Dąb Ancona",
+      "numer_dekoru": "D3276"
+    },
+    {
+      "nazwa_dekoru": "Dąb Antyczny",
+      "numer_dekoru": "D2419"
+    },
+    {
+      "nazwa_dekoru": "Dąb Artisan",
+      "numer_dekoru": "D4225"
+    },
+    {
+      "nazwa_dekoru": "Dąb Beżowy",
+      "numer_dekoru": "D4430"
+    },
+    {
+      "nazwa_dekoru": "Dąb Biszkoptowy",
+      "numer_dekoru": "D4032"
+    },
+    {
+      "nazwa_dekoru": "Dąb Brunico",
+      "numer_dekoru": "D3264"
+    },
+    {
+      "nazwa_dekoru": "Dąb Canyon",
+      "numer_dekoru": "D3273"
+    },
+    {
+      "nazwa_dekoru": "Dąb Cortona",
+      "numer_dekoru": "D3275"
+    },
+    {
+      "nazwa_dekoru": "Dąb Delikatny",
+      "numer_dekoru": "D70050"
+    },
+    {
+      "nazwa_dekoru": "Dąb Dublin",
+      "numer_dekoru": "D3822"
+    },
+    {
+      "nazwa_dekoru": "Dąb Frappe",
+      "numer_dekoru": "D1096"
+    },
+    {
+      "nazwa_dekoru": "Dąb Giovanni",
+      "numer_dekoru": "D3314"
+    },
+    {
+      "nazwa_dekoru": "Dąb Hawana",
+      "numer_dekoru": "D4031"
+    },
+    {
+      "nazwa_dekoru": "Dąb Helsinki (Carmen)",
+      "numer_dekoru": "D3316"
+    },
+    {
+      "nazwa_dekoru": "Dąb Jasny",
+      "numer_dekoru": "D9103"
+    },
+    {
+      "nazwa_dekoru": "Dąb Korzenny",
+      "numer_dekoru": "D4030"
+    },
+    {
+      "nazwa_dekoru": "Dąb Królewski",
+      "numer_dekoru": "D2840"
+    },
+    {
+      "nazwa_dekoru": "Dąb Latte",
+      "numer_dekoru": "D1094"
+    },
+    {
+      "nazwa_dekoru": "Dąb Letni",
+      "numer_dekoru": "D20230"
+    },
+    {
+      "nazwa_dekoru": "Dąb Liryczny",
+      "numer_dekoru": "D20140"
+    },
+    {
+      "nazwa_dekoru": "Dąb Londyn",
+      "numer_dekoru": "D3798"
+    },
+    {
+      "nazwa_dekoru": "Dąb Lungo",
+      "numer_dekoru": "D1089"
+    },
+    {
+      "nazwa_dekoru": "Dąb Madryt",
+      "numer_dekoru": "D3801"
+    },
+    {
+      "nazwa_dekoru": "Dąb Mocha",
+      "numer_dekoru": "D1092"
+    },
+    {
+      "nazwa_dekoru": "Dąb Naturalny",
+      "numer_dekoru": "D4428"
+    },
+    {
+      "nazwa_dekoru": "Dąb Nostalgiczny",
+      "numer_dekoru": "D20110"
+    },
+    {
+      "nazwa_dekoru": "Dąb Nowy Jork",
+      "numer_dekoru": "D3823"
+    },
+    {
+      "nazwa_dekoru": "Dąb Odwieczny",
+      "numer_dekoru": "D1041"
+    },
+    {
+      "nazwa_dekoru": "Dąb Oslo (Figaro)",
+      "numer_dekoru": "D3315"
+    },
+    {
+      "nazwa_dekoru": "Dąb Palermo Ciemny",
+      "numer_dekoru": "D2610"
+    },
+    {
+      "nazwa_dekoru": "Dąb Palermo Jasny",
+      "numer_dekoru": "D2609"
+    },
+    {
+      "nazwa_dekoru": "Dąb Paryż",
+      "numer_dekoru": "D3799"
+    },
+    {
+      "nazwa_dekoru": "Dąb Petersburg (Nabucco)",
+      "numer_dekoru": "D3313"
+    },
+    {
+      "nazwa_dekoru": "Dąb Pradawny",
+      "numer_dekoru": "D1035"
+    },
+    {
+      "nazwa_dekoru": "Dąb Rijeka Jasny",
+      "numer_dekoru": "D3166"
+    },
+    {
+      "nazwa_dekoru": "Dąb Rustykalny",
+      "numer_dekoru": "D3055"
+    },
+    {
+      "nazwa_dekoru": "Dąb Rzym",
+      "numer_dekoru": "D3800"
+    },
+    {
+      "nazwa_dekoru": "Dąb San Marino",
+      "numer_dekoru": "D3349"
+    },
+    {
+      "nazwa_dekoru": "Dąb Sonoma",
+      "numer_dekoru": "D3025"
+    },
+    {
+      "nazwa_dekoru": "Dąb Sonoma Tabac",
+      "numer_dekoru": "D5194"
+    },
+    {
+      "nazwa_dekoru": "Dąb Sztokholm",
+      "numer_dekoru": "D3821"
+    },
+    {
+      "nazwa_dekoru": "Dąb Słoneczny",
+      "numer_dekoru": "D4033"
+    },
+    {
+      "nazwa_dekoru": "Dąb Traviata",
+      "numer_dekoru": "D3311"
+    },
+    {
+      "nazwa_dekoru": "Dąb Warszawa (Tosca)",
+      "numer_dekoru": "D3312"
+    },
+    {
+      "nazwa_dekoru": "Dąb Wersal",
+      "numer_dekoru": "D4865"
+    },
+    {
+      "nazwa_dekoru": "Dąb Windsor",
+      "numer_dekoru": "D9118"
+    },
+    {
+      "nazwa_dekoru": "Eliza",
+      "numer_dekoru": "D495"
+    },
+    {
+      "nazwa_dekoru": "Enigma",
+      "numer_dekoru": "D3269"
+    },
+    {
+      "nazwa_dekoru": "Filc Szary",
+      "numer_dekoru": "D30080"
+    },
+    {
+      "nazwa_dekoru": "Grafitowy",
+      "numer_dekoru": "U162"
+    },
+    {
+      "nazwa_dekoru": "Grafitowy",
+      "numer_dekoru": "U3114"
+    },
+    {
+      "nazwa_dekoru": "Granatowy",
+      "numer_dekoru": "U4810"
+    },
+    {
+      "nazwa_dekoru": "Grusza Polna",
+      "numer_dekoru": "D9300"
+    },
+    {
+      "nazwa_dekoru": "Jabłoń Locarno",
+      "numer_dekoru": "D1972"
+    },
+    {
+      "nazwa_dekoru": "Jaśminowy",
+      "numer_dekoru": "D3266"
+    },
+    {
+      "nazwa_dekoru": "Jesion Antracyt",
+      "numer_dekoru": "D4424"
+    },
+    {
+      "nazwa_dekoru": "Jesion Calabria",
+      "numer_dekoru": "D2843"
+    },
+    {
+      "nazwa_dekoru": "Jesion Jasny",
+      "numer_dekoru": "D4426"
+    },
+    {
+      "nazwa_dekoru": "Jesion Messina",
+      "numer_dekoru": "D2605"
+    },
+    {
+      "nazwa_dekoru": "Jesion Werona",
+      "numer_dekoru": "D3158"
+    },
+    {
+      "nazwa_dekoru": "Kaskada Beżowa",
+      "numer_dekoru": "D30170"
+},
+{
+      "nazwa_dekoru": "Kaskada Czarna",
+      "numer_dekoru": "D30180"
+    },
+    {
+      "nazwa_dekoru": "Kaszmirowy",
+      "numer_dekoru": "U6933"
+    },
+    {
+      "nazwa_dekoru": "Kasztan Berno",
+      "numer_dekoru": "D3820"
+    },
+    {
+      "nazwa_dekoru": "Kasztan Biały",
+      "numer_dekoru": "D4419"
+    },
+    {
+      "nazwa_dekoru": "Kasztan Lwów",
+      "numer_dekoru": "D3818"
+    },
+    {
+      "nazwa_dekoru": "Kasztan Naturalny",
+      "numer_dekoru": "D4418"
+    },
+    {
+      "nazwa_dekoru": "Kasztan Spokojny",
+      "numer_dekoru": "D20130"
+    },
+    {
+      "nazwa_dekoru": "Kasztan Spokojny Jasny",
+      "numer_dekoru": "D20120"
+    },
+    {
+      "nazwa_dekoru": "Klon Naturalny",
+      "numer_dekoru": "D375"
+    },
+    {
+      "nazwa_dekoru": "Klon Vancouver Jasny",
+      "numer_dekoru": "D440"
+    },
+    {
+      "nazwa_dekoru": "Kwarcyt Szary",
+      "numer_dekoru": "D30220"
+    },
+    {
+      "nazwa_dekoru": "Lamele Brązowe",
+      "numer_dekoru": "D20210"
+    },
+    {
+      "nazwa_dekoru": "Lamele Kremowe",
+      "numer_dekoru": "D20200"
+    },
+    {
+      "nazwa_dekoru": "Len Kremowy",
+      "numer_dekoru": "D30100"
+    },
+    {
+      "nazwa_dekoru": "Limba Czekoladowa",
+      "numer_dekoru": "D2380"
+    },
+    {
+      "nazwa_dekoru": "Marmur Crema",
+      "numer_dekoru": "D4448"
+    },
+    {
+      "nazwa_dekoru": "Metalik",
+      "numer_dekoru": "D881"
+    },
+    {
+      "nazwa_dekoru": "Miedziany Zmierzch",
+      "numer_dekoru": "D1032"
+    },
+    {
+      "nazwa_dekoru": "Modrzew Kremowy",
+      "numer_dekoru": "D3288"
+    },
+    {
+      "nazwa_dekoru": "Modrzew Wieczorny",
+      "numer_dekoru": "D4034"
+    },
+    {
+      "nazwa_dekoru": "Morski",
+      "numer_dekoru": "U4809"
+    },
+    {
+      "nazwa_dekoru": "Neapolis Jasny",
+      "numer_dekoru": "D4415"
+    },
+    {
+      "nazwa_dekoru": "Niebieski Przydymiony",
+      "numer_dekoru": "U4435"
+    },
+    {
+      "nazwa_dekoru": "Olcha",
+      "numer_dekoru": "D9310"
+    },
+    {
+      "nazwa_dekoru": "Olcha Górska",
+      "numer_dekoru": "D9311"
+    },
+    {
+      "nazwa_dekoru": "Oliwkowy",
+      "numer_dekoru": "U2508"
+    },
+    {
+      "nazwa_dekoru": "Orzech",
+      "numer_dekoru": "D722"
+    },
+    {
+      "nazwa_dekoru": "Orzech Ambasador",
+      "numer_dekoru": "D4822"
+    },
+    {
+      "nazwa_dekoru": "Orzech Art Deco",
+      "numer_dekoru": "D30190"
+    },
+    {
+      "nazwa_dekoru": "Orzech Barcelona",
+      "numer_dekoru": "D3813"
+    },
+    {
+      "nazwa_dekoru": "Orzech Brązowy",
+      "numer_dekoru": "D4409"
+    },
+    {
+      "nazwa_dekoru": "Orzech California",
+      "numer_dekoru": "D2713"
+    },
+    {
+      "nazwa_dekoru": "Orzech Caravaggio",
+      "numer_dekoru": "D9164"
+    },
+    {
+      "nazwa_dekoru": "Orzech Ciemny",
+      "numer_dekoru": "D9450"
+    },
+    {
+      "nazwa_dekoru": "Orzech Ecco",
+      "numer_dekoru": "D9163"
+    },
+    {
+      "nazwa_dekoru": "Orzech Klasyczny",
+      "numer_dekoru": "D20150"
+    },
+    {
+      "nazwa_dekoru": "Orzech Marino",
+      "numer_dekoru": "D2841"
+    },
+    {
+      "nazwa_dekoru": "Orzech Nicea",
+      "numer_dekoru": "D3810"
+    },
+    {
+      "nazwa_dekoru": "Orzech Południowy",
+      "numer_dekoru": "D1039"
+    },
+    {
+      "nazwa_dekoru": "Orzech Wenecja",
+      "numer_dekoru": "D3811"
+    },
+    {
+      "nazwa_dekoru": "Orzech Złoty",
+      "numer_dekoru": "D4410"
+    },
+    {
+      "nazwa_dekoru": "Pistacjowy",
+      "numer_dekoru": "U4439"
+    },
+    {
+      "nazwa_dekoru": "Popiel",
+      "numer_dekoru": "U112"
+    },
+    {
+      "nazwa_dekoru": "Pudrowy Róż",
+      "numer_dekoru": "U4446"
+    },
+    {
+      "nazwa_dekoru": "Płótno Oxford",
+      "numer_dekoru": "D4096"
+    },
+    {
+      "nazwa_dekoru": "Różowy",
+      "numer_dekoru": "U141"
+    },
+    {
+      "nazwa_dekoru": "Sezamowy",
+      "numer_dekoru": "U10010"
+    },
+    {
+      "nazwa_dekoru": "Sosna Bielona",
+      "numer_dekoru": "D3168"
+    },
+    {
+      "nazwa_dekoru": "Sosna Czekoladowa",
+      "numer_dekoru": "D4095"
+    },
+    {
+      "nazwa_dekoru": "Szary Ciemny",
+      "numer_dekoru": "U171"
+    },
+    {
+      "nazwa_dekoru": "Szary Jasny",
+      "numer_dekoru": "U2653"
+    },
+    {
+      "nazwa_dekoru": "Szary Kamienny",
+      "numer_dekoru": "U540"
+    },
+    {
+      "nazwa_dekoru": "Szary Lawa",
+      "numer_dekoru": "U3057"
+    },
+    {
+      "nazwa_dekoru": "Szary Łąkowy",
+      "numer_dekoru": "U544"
+    },
+    {
+      "nazwa_dekoru": "Terrazzo Fresco",
+      "numer_dekoru": "D70060"
+    },
+    {
+      "nazwa_dekoru": "Tkane Kwiaty",
+      "numer_dekoru": "D70070"
+    },
+    {
+      "nazwa_dekoru": "Toffi",
+      "numer_dekoru": "U3188"
+    },
+    {
+      "nazwa_dekoru": "Trawa Cytrynowa",
+      "numer_dekoru": "U6931"
+    },
+    {
+      "nazwa_dekoru": "Truflowy",
+      "numer_dekoru": "U3189"
+    },
+    {
+      "nazwa_dekoru": "Tytan Brązowoszary",
+      "numer_dekoru": "D4454"
+    },
+    {
+      "nazwa_dekoru": "Tytan Srebrny",
+      "numer_dekoru": "D4452"
+    },
+    {
+      "nazwa_dekoru": "Wanilia",
+      "numer_dekoru": "U1301"
+    },
+    {
+      "nazwa_dekoru": "Waniliowy",
+      "numer_dekoru": "U3261"
+    },
+    {
+      "nazwa_dekoru": "Wenge Magia",
+      "numer_dekoru": "D2226"
+    },
+    {
+      "nazwa_dekoru": "Wiąz Allegro",
+      "numer_dekoru": "D3194"
+    },
+    {
+      "nazwa_dekoru": "Wiąz Amsterdam (Moderato)",
+      "numer_dekoru": "D3193"
+    },
+    {
+      "nazwa_dekoru": "Wiąz Berlin (Andante)",
+      "numer_dekoru": "D3192"
+    },
+    {
+      "nazwa_dekoru": "Wiąz Kraków (Adagio)",
+      "numer_dekoru": "D3191"
+    },
+    {
+      "nazwa_dekoru": "Wiąz Largo",
+      "numer_dekoru": "D3190"
+    },
+    {
+      "nazwa_dekoru": "Wiąz Lucerna",
+      "numer_dekoru": "D4103"
+    },
+    {
+      "nazwa_dekoru": "Wiąz Naturalny",
+      "numer_dekoru": "D4432"
+    },
+    {
+      "nazwa_dekoru": "Wiąz Presto",
+      "numer_dekoru": "D3196"
+    },
+    {
+      "nazwa_dekoru": "Wiąz Vivo",
+      "numer_dekoru": "D3195"
+    },
+    {
+      "nazwa_dekoru": "Wiśnia Antyczna",
+      "numer_dekoru": "D2360"
+    },
+    {
+      "nazwa_dekoru": "Wydmy Beżowe",
+      "numer_dekoru": "D30160"
+    },
+    {
+      "nazwa_dekoru": "Wytrawny Szary Kamień",
+      "numer_dekoru": "D4878"
+    },
+    {
+      "nazwa_dekoru": "Żółty Dijon",
+      "numer_dekoru": "U4438"
+    }
+  ]
+}
+   
